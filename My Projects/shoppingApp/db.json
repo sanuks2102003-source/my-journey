@@ -1,0 +1,66 @@
+
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 16",
+      "category": "Electronics",
+      "price": 79999,
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab",
+      "description": "A powerful smartphone with a modern design and advanced features.",
+      "stock": 15,
+      "rating": 4.8
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S25",
+      "category": "Electronics",
+      "price": 74999,
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c",
+      "description": "A premium Android smartphone with excellent performance and display.",
+      "stock": 20,
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "name": "Sony Wireless Headphones",
+      "category": "Accessories",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Wireless headphones designed for high-quality audio and comfort.",
+      "stock": 12,
+      "rating": 4.6
+    },
+    {
+      "id": "4",
+      "name": "Nike Running Shoes",
+      "category": "Shoes",
+      "price": 8999,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Comfortable running shoes designed for everyday training and exercise.",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": "5",
+      "name": "Casual Cotton T-Shirt",
+      "category": "Clothing",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "description": "A comfortable cotton T-shirt suitable for everyday casual wear.",
+      "stock": 40,
+      "rating": 4.3
+    },
+    {
+      "id": "6",
+      "name": "Apple MacBook Air",
+      "category": "Electronics",
+      "price": 99999,
+      "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8",
+      "description": "A lightweight laptop designed for productivity, coding and everyday work.",
+      "stock": 8,
+      "rating": 4.9
+    }
+  ],
+  "orders": []
+}
